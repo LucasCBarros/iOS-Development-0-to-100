@@ -1,4 +1,4 @@
-# 📘 iOS Development 0 to 100  
+# 📱 iOS Development 0 to 100  
 
 ![iOS Development Banner](images/banner.png)  
 *From Swift basics to advanced iOS architectures: A complete learning path.*  
@@ -156,12 +156,12 @@ This project is a **Work in Progress** and will continue to grow. Your feedback 
 Created with care by **Lucas C. Barros**  
 - 🌍 From Brazil 🇧🇷 → living in Vancouver, Canada 🇨🇦  
 - 📧 Contact: LucasCavalcanteDeBarros@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucascbarros/)
+- 💼 LinkedIn: [www.linkedin.com/in/lucascbarros](https://www.linkedin.com/in/lucascbarros/)
 - 💻 Portfolio: [https://kodeshark.com](https://kodeshark.com)
-- 🔗 [GitHub](https://github.com/LucasCBarros) 
+- 🔗 GitHub: [github.com/LucasCBarros](https://github.com/LucasCBarros) 
 
-If this project helps you or your team, please **give credit when credit is due**. 
-I’ve put a lot of effort into curating this material to support our community. 
+If this project helps you or your team, please **give credit when credit is due**. \
+I’ve put a lot of effort into curating this material to support our community. \
 A ⭐️ on GitHub goes a long way!  
 
 ---
