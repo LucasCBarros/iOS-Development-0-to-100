@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='7.0' target-platform='ios' swift-version='6' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='00-Introduction'/>
+        <page name='01-Optionals Basics'/>
+        <page name='02-Optional Binding'/>
+        <page name='03-Nil Coalescing'/>
+        <page name='04-Optional Chaining'/>
+        <page name='05-Functions Basics'/>
+        <page name='06-Default &amp; In-Out Parameters'/>
+        <page name='07-Functions as Types &amp; Typealias'/>
+        <page name='08-Closures Basics'/>
+        <page name='09-Recursion'/>
+        <page name='10-Higher-Order Functions'/>
+    </pages>
+</playground>
