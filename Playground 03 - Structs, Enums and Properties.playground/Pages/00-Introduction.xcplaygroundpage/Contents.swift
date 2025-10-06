@@ -24,6 +24,7 @@
   12. [Access Control](12-Access%20Control)
   13. [Extensions](13-Extensions)
   14. [Pure Functions](14-Pure%20Functions)
+  15. [some vs Any vs any vs AnyObject](15-some%20vs%20Any%20vs%20any%20vs%20AnyObject)
 
  ---
 
